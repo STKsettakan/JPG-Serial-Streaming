@@ -1,0 +1,26 @@
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\bin\Release\cameraView.exe
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\bin\Release\cameraView.pdb
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\obj\Release\cameraView.csprojAssemblyReference.cache
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\obj\Release\cameraView.Form1.resources
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\obj\Release\cameraView.Properties.Resources.resources
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\obj\Release\cameraView.csproj.GenerateResource.cache
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\obj\Release\cameraView.csproj.CoreCompileInputs.cache
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\obj\Release\cameraView.exe
+C:\Users\stk\Desktop\VS Program\cameraView\cameraView\cameraView\obj\Release\cameraView.pdb
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\obj\Release\cameraView.Form1.resources
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\obj\Release\cameraView.Properties.Resources.resources
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\obj\Release\cameraView.csproj.GenerateResource.cache
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\obj\Release\cameraView.csproj.CoreCompileInputs.cache
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\bin\Release\JPG Serial Streaming.exe
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\bin\Release\JPG Serial Streaming.pdb
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\obj\Release\JPG Serial Streaming.exe
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\obj\Release\JPG Serial Streaming.pdb
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1\cameraView\cameraView\obj\Release\cameraView.csprojAssemblyReference.cache
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\bin\Release\JPG Serial Streaming.exe
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\bin\Release\JPG Serial Streaming.pdb
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\obj\Release\cameraView.Form1.resources
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\obj\Release\cameraView.Properties.Resources.resources
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\obj\Release\cameraView.csproj.GenerateResource.cache
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\obj\Release\cameraView.csproj.CoreCompileInputs.cache
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\obj\Release\JPG Serial Streaming.exe
+C:\Users\stk\Desktop\ESPino32CAM Document\cameraViewV1_1\cameraView\cameraView\obj\Release\JPG Serial Streaming.pdb
